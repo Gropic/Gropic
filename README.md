@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gropic
 - 👀 I’m interested in programming and learning
-- 🌱 I’m currently learning Software developer 
+- 🌱 I’m currently learning Software developer and ethical hacking.
 
 <!---
 Gropic/Gropic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
